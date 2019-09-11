@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user>
+    <timerJobs>
+        <entry>
+            <key>timer-job-0</key>
+            <value>0</value>
+        </entry>
+        <entry>
+            <key>timer-job-100</key>
+            <value>100</value>
+        </entry>
+        <entry>
+            <key>timer-job-3</key>
+            <value>3</value>
+        </entry>
+        <entry>
+            <key>timer-job-35</key>
+            <value>35</value>
+        </entry>
+        <entry>
+            <key>timer-job-5</key>
+            <value>5</value>
+        </entry>
+        <entry>
+            <key>timer-job-8</key>
+            <value>8</value>
+        </entry>
+        <entry>
+            <key>timer-job-90</key>
+            <value>90</value>
+        </entry>
+    </timerJobs>
+</user>
